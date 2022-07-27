@@ -14,4 +14,5 @@
 14 git remote add origin https://github.com/furuya666/cursogit.git
 15 ya se usa  token
 16 git push origin >>>> para subir al repo
-17 git clone https >>>para bajar el repo
+17 git clone https >>>para bajar el 
+18 git pull >> para bajar cambios
