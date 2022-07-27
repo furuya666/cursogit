@@ -8,4 +8,7 @@
 8 git log >>> cada  version del programa
 9 git checkout -- index.html >>>>> vuelve atras desace el codigo aumentado
 10 git diff index.html >>> te muestra las  lineas aumentadas
-
+11 git branch >>> ver  la rama que me encuentro
+12 git branch test >>> crea una nueva rama
+13 git checkout test >> moverse  de rama
+14 git remote add origin https://github.com/furuya666/cursogit.git
