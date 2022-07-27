@@ -12,3 +12,4 @@
 12 git branch test >>> crea una nueva rama
 13 git checkout test >> moverse  de rama
 14 git remote add origin https://github.com/furuya666/cursogit.git
+15 ya se usa  token
