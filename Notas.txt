@@ -2,3 +2,10 @@
 2 git status >>>para ver archivos estoy trabajando
 3 git add app.js  >>este archivo se esta siguiendo
 4 git add . >>>se sigue todos los archivos
+5 git commit -m"Mensaje">>
+6 git config --global user.email "furuyagary@gmail.com"
+7 git config --global user.name "Gary Furuya"
+8 git log >>> cada  version del programa
+9 git checkout -- index.html >>>>> vuelve atras desace el codigo aumentado
+10 git diff index.html >>> te muestra las  lineas aumentadas
+
