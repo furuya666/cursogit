@@ -1,0 +1,4 @@
+1 git init >>>> inicializar un proyecto
+2 git status >>>para ver archivos estoy trabajando
+3 git add app.js  >>este archivo se esta siguiendo
+4 git add . >>>se sigue todos los archivos
